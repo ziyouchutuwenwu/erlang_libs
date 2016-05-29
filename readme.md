@@ -1,5 +1,5 @@
 #### 1.project creator
-- https://github.com/ziyouchutuwenwu/rebar-creator
+- https://github.com/ziyouchutuwenwu/rebar3-creator
 
 #### 2.http client:
 - https://github.com/cmullaparthi/ibrowse
