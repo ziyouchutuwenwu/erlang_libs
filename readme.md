@@ -15,7 +15,7 @@
 - https://github.com/ninenines/cowboy
 
 #### 6.code reloader：
-- https://github.com/rustyio/synce
+- https://github.com/rustyio/sync
 
 #### 7.redis
 - https://github.com/ziyouchutuwenwu/eredis_pool
