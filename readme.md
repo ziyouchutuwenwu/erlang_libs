@@ -1,30 +1,41 @@
-#### 1.project creator
-- https://github.com/ziyouchutuwenwu/rebar3-creator
+# 收集 erlang 下面的常用的比较好的库
 
-#### 2.rebar3_erlydtl_plugin
+## project creator
+
+https://github.com/ziyouchutuwenwu/rebar3-creator
+
+## rebar3_erlydtl_plugin
+
 - https://github.com/tsloughter/rebar3_erlydtl_plugin
 
-#### 3.http client:
+## http client
+
 - https://github.com/cmullaparthi/ibrowse
 
-#### 4.pool
+## pool
+
 - https://github.com/inaka/worker_pool
 
-#### 5.light web server:
-- https://github.com/s1n4/leptus
-- https://github.com/ninenines/cowboy
+## light web server
 
-#### 6.code reloader：
+- https://github.com/sinasamavati/leptus
+
+## code reloader
+
 - https://github.com/rustyio/sync
 
-#### 7.redis
+## redis
+
 - https://github.com/ziyouchutuwenwu/eredis_pool
 
-#### 8.pgsql
+## pgsql
+
 - https://github.com/ziyouchutuwenwu/epgsql_pool
 
-#### 9.captcha
+## captcha
+
 - https://github.com/ziyouchutuwenwu/simple_captcha
 
-#### 10.目录监控
+## 目录监控
+
 - https://github.com/sheyll/inotify
