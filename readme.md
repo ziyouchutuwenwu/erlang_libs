@@ -2,44 +2,72 @@
 
 ## project creator
 
-- <https://github.com/ziyouchutuwenwu/rebar3-creator>
+```sh
+github.com/ziyouchutuwenwu/rebar3-creator
+```
 
 ## rebar3_erlydtl_plugin
 
-- <https://github.com/tsloughter/rebar3_erlydtl_plugin>
+```sh
+github.com/tsloughter/rebar3_erlydtl_plugin
+```
 
 ## http client
 
-- <https://github.com/cmullaparthi/ibrowse>
+```sh
+github.com/cmullaparthi/ibrowse
+```
 
 ## pool
 
-- <https://github.com/inaka/worker_pool>
+```sh
+github.com/inaka/worker_pool
+```
 
 ## light web server
 
-- <https://github.com/sinasamavati/leptus>
+```sh
+github.com/sinasamavati/leptus
+```
 
 ## code reloader
 
-- <https://github.com/rustyio/sync>
+```sh
+github.com/rustyio/sync
+```
 
 ## redis
 
-- <https://github.com/ziyouchutuwenwu/eredis_pool>
+```sh
+github.com/ziyouchutuwenwu/eredis_pool
+```
 
 ## pgsql
 
-- <https://github.com/ziyouchutuwenwu/epgsql_pool>
+```sh
+github.com/ziyouchutuwenwu/epgsql_pool
+```
 
 ## captcha
 
-- <https://github.com/ziyouchutuwenwu/simple_captcha>
+```sh
+github.com/ziyouchutuwenwu/simple_captcha
+```
 
 ## 目录监控
 
-- <https://github.com/sheyll/inotify>
+```sh
+github.com/sheyll/inotify
+```
 
 ## json 解析
 
-- <https://github.com/sile/jsone>
+```sh
+github.com/sile/jsone
+```
+
+## 和 golang 的桥接库
+
+```sh
+github.com/tuxofil/tcpcall
+```
