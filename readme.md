@@ -65,9 +65,3 @@ github.com/sheyll/inotify
 ```sh
 github.com/sile/jsone
 ```
-
-## 和 golang 的桥接库
-
-```sh
-github.com/tuxofil/tcpcall
-```
