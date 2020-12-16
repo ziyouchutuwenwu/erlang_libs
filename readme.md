@@ -18,6 +18,24 @@ github.com/tsloughter/rebar3_erlydtl_plugin
 github.com/cmullaparthi/ibrowse
 ```
 
+用法
+
+```erlang
+form_post_demo()->
+  ibrowse:start(),
+  Url = "http://127.0.0.1:8100",
+  ReqHeaders = [{<<"Content-Type">>, <<"application/x-www-form-urlencoded">>}],
+  ReqBody = << "{	\"voltage\": \"111\" }" >>,
+  ibrowse:send_req(Url, ReqHeaders, get, ReqBody).
+
+json_post_demo()->
+  ibrowse:start(),
+  Url = "http://127.0.0.1:8100",
+  ReqHeaders = [{<<"Content-Type">>, <<"application/json">>}],
+  ReqBody = << "{	\"name\": \"some snippet\" }" >>,
+  ibrowse:send_req(Url, ReqHeaders, get, ReqBody).
+```
+
 ## pool
 
 ```sh
